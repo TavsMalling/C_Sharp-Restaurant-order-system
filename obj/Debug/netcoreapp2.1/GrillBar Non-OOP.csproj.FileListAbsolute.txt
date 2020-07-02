@@ -1,0 +1,10 @@
+C:\Users\marst\source\repos\GrillBar Non-OOP\bin\Debug\netcoreapp2.1\GrillBar Non-OOP.deps.json
+C:\Users\marst\source\repos\GrillBar Non-OOP\bin\Debug\netcoreapp2.1\GrillBar Non-OOP.runtimeconfig.json
+C:\Users\marst\source\repos\GrillBar Non-OOP\bin\Debug\netcoreapp2.1\GrillBar Non-OOP.runtimeconfig.dev.json
+C:\Users\marst\source\repos\GrillBar Non-OOP\bin\Debug\netcoreapp2.1\GrillBar Non-OOP.dll
+C:\Users\marst\source\repos\GrillBar Non-OOP\bin\Debug\netcoreapp2.1\GrillBar Non-OOP.pdb
+C:\Users\marst\source\repos\GrillBar Non-OOP\obj\Debug\netcoreapp2.1\GrillBar Non-OOP.csprojAssemblyReference.cache
+C:\Users\marst\source\repos\GrillBar Non-OOP\obj\Debug\netcoreapp2.1\GrillBar Non-OOP.AssemblyInfoInputs.cache
+C:\Users\marst\source\repos\GrillBar Non-OOP\obj\Debug\netcoreapp2.1\GrillBar Non-OOP.AssemblyInfo.cs
+C:\Users\marst\source\repos\GrillBar Non-OOP\obj\Debug\netcoreapp2.1\GrillBar Non-OOP.dll
+C:\Users\marst\source\repos\GrillBar Non-OOP\obj\Debug\netcoreapp2.1\GrillBar Non-OOP.pdb
